@@ -1,2 +1,2 @@
-# Bias-Detection-in-Textual-Data
-Toxicity and Bias Detection in Textual Data
+# Bias-Removal-Textual-data
+For project winter 22 quarter
