@@ -1,2 +1,2 @@
-# Bias-Removal-Textual-data
-For project winter 22 quarter
+# Toxicity and Bias Removal in Textual Data
+
